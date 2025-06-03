@@ -45,7 +45,7 @@ test = [
     "pyzx >= 0.7.3, < 0.8",
     "sympy >= 1.13",
     "tensornetwork",
-    "jax",
+    "jax <= 0.4.28",
     "jaxlib",
     "torch",
     "pennylane >= 0.29.1",
